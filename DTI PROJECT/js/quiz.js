@@ -32,7 +32,7 @@ document.getElementById('quiz-form').addEventListener('submit', async function(e
     travel: travel.value,
   };
 
-  const apiKey = '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'; // Replace with your actual OpenAI API key
+  const apiKey = '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'; // Replace with your actual OpenAI API key
   const apiUrl = 'https://api.openai.com/v1/chat/completions';
   
   try {
